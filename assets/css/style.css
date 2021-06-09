@@ -76,6 +76,8 @@ p {
   margin-left: 20px;
 }
 
+/* Created a unique name for class to reduced the number of classes */ 
+/* Moved class to match layout of html docuent */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -85,11 +87,11 @@ p {
     color: #ffffff;
   }
   
-  .services img {
+.services img {
     max-height: 200px;
   }
   
-  .services h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
   }
@@ -104,6 +106,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
+/* Created a unique name for class to reduced the number of classes */ 
 
 .benefit-offer {
   margin-bottom: 32px;
