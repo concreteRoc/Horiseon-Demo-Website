@@ -76,7 +76,7 @@ p {
   margin-left: 20px;
 }
 
-.benefit-package {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -85,11 +85,11 @@ p {
     color: #ffffff;
   }
   
-  .benefit-package img {
+  .services img {
     max-height: 200px;
   }
   
-  .benefit-package h2 {
+  .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
   }
